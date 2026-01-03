@@ -1,0 +1,33 @@
+{
+    "semester_start_date": "2025-09-01",
+    "background_path": "",
+    "background_opacity": 0.5,
+    "course_opacity": 0.85,
+    "theme_mode": "auto",
+    "header_style": "translucent",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "exit_on_close": false,
+    "enable_notification": true,
+    "remind_minutes": 30,
+    "auto_update": false,
+    "language": "zh_CN",
+    "total_courses_per_day": 12,
+    "morning_count": 4,
+    "afternoon_count": 4,
+    "evening_count": 4,
+    "custom_time_slots": [
+        {"section": 1, "start": "08:00", "end": "08:45"},
+        {"section": 2, "start": "08:55", "end": "09:40"},
+        {"section": 3, "start": "10:00", "end": "10:45"},
+        {"section": 4, "start": "10:55", "end": "11:40"},
+        {"section": 5, "start": "14:00", "end": "14:45"},
+        {"section": 6, "start": "14:55", "end": "15:40"},
+        {"section": 7, "start": "16:00", "end": "16:45"},
+        {"section": 8, "start": "16:55", "end": "17:40"},
+        {"section": 9, "start": "19:00", "end": "19:45"},
+        {"section": 10, "start": "19:55", "end": "20:40"},
+        {"section": 11, "start": "20:50", "end": "21:35"},
+        {"section": 12, "start": "21:45", "end": "22:30"}
+    ]
+}
